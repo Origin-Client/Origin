@@ -3,8 +3,6 @@
     <string name="xal_token">ms-xal-0000000048183522</string>
 	<string name="default_string">Hello World!</string>
 	<string name="mbl2_desc">Experimental Build</string>
-
-<<<<<<< HEAD
 	<string name="welcome">Origin Client - Minecraft Bedrock Client</string>
 	<string name="mc_pkgname">minecraft package id:</string>
 </resources>
